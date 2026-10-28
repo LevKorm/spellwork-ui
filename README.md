@@ -2,6 +2,8 @@
 
 Four interface components with gentle fairy-dust light, drawn in WebGL with Three.js: a toggle, a ghost button, a slider and a checkbox.
 
+**[Live demo →](https://levkorm.github.io/spellwork-ui/)**
+
 | Toggle | Ghost button |
 | --- | --- |
 | ![Toggle](media/gif/01-toggle.gif) | ![Ghost button](media/gif/02-ghost-button.gif) |
@@ -17,7 +19,7 @@ The controls are real HTML elements (button with `role="switch"`, `input type="r
 
 ## Run
 
-Open `index.html` in a browser. Three.js r128 loads from cdnjs; the Fixel fonts are embedded in the page.
+Open the [live demo](https://levkorm.github.io/spellwork-ui/), or `index.html` locally in a browser. Three.js r128 loads from cdnjs; the Fixel fonts are embedded in the page.
 
 ## Media
 
